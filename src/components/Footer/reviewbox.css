@@ -1,0 +1,19 @@
+.cname{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #DCCA87;
+    margin-bottom: 0.2rem;
+    margin-top: 0.5rem;
+}
+.cstar{
+    color: var(--color-golden);
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.1rem;
+}
+.ccomment{
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.1rem;
+    color: var(--color-crimson);
+}
